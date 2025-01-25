@@ -1,34 +1,18 @@
-<h1 align="center">Hi 👋, I'm Jason Maliquid</h1>
+[![](https://visitcount.itsvg.in/api?id=OMGItsJason&icon=5&color=1)](https://visitcount.itsvg.in)
+<h1 align="center">Continuously Expanding My Knowledge Base Through Ongoing Exploration</h1>
 
-<h3 align="center">Continuously Expanding My Knowledge Base Through Ongoing Exploration</h3>
+### TECH STACK
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-* 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [My Portfolio](http://jason-maliquid-portfolio.vercel.app/)
-* ✉️  You can contact me at [jasonm2822@gmail.com](mailto:jasonm2822@gmail.com)
-* 🧠  I'm learning SVELTE And Tailwind CSS
-
-### Skills
-
-
-<p align="center">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="52" height="52" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="52" height="52" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"width="52" height="52" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="52" height="52" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="52" height="52" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="52" height="52" alt="CSS3" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="52" height="52" alt="Svelte" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="52" height="52" alt="TailwindCSS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="52" height="52" alt="MongoDB" /></a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="52" height="52"/><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="52" height="52" alt=".NET" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="52" height="52" alt="Figma" /></a>
-</p>
+### CONTACTS
+[![Febook Badge](https://img.shields.io/badge/-Facebook-1da1f2?labelColor=1da1f2&logo=facebook&logoColor=white&link=https://www.facebook.com/maliquid.jason/)](https://www.facebook.com/maliquid.jason/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/itz.me_jason/)](https://www.instagram.com/itz.me_jason/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jasonm2822@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jason-maliquid-1700742b2/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-c14438?style=flat&link=https://jason-maliquid-portfolio.vercel.app/)](https://jason-maliquid-portfolio.vercel.app/)
 
 
-### Socials
-
-<p align="center">
-<a href="https://fb.com/maliquid.jason" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maliquid.jason" width="52" height="52" /></a>
-<a href="https://instagram.com/itz.me_jason" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.me_jason" width="52" height="52" /></a>
-  
-</p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/OMGItsJason"><img src="https://github-readme-stats.vercel.app/api?username=OMGItsJason&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="OMGItsJason's GitHub stats" /></a>
-
-<a href="http://www.github.com/OMGItsJason"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OMGItsJason&stroke=ffffff&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/OMGItsJason" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMGItsJason&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### GITHUB STATS
+![](https://github-readme-stats.vercel.app/api?username=OMGItsJason&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=OMGItsJason&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OMGItsJason&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
